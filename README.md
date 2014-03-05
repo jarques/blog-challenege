@@ -1,5 +1,5 @@
 #### Getting Started
-First clone this repo to your local machine, the repo containts assets and boilerplate HTML/CSS to help you.
+First clone this repo to your local machine, the repo contains assets and boilerplate HTML/CSS to help you.
 
 ---------------
 
@@ -17,4 +17,4 @@ Use the provided assets to recreate [this mockup](http://jarqu.es/dl/b.jpg). It'
 
 #### Bonuses
 * What happens when you click on comments or hamburger menu?
-* Think about a responsive layout to support multiple devices.
+* Implement a responsive layout to support multiple devices.

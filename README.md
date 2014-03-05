@@ -1,5 +1,5 @@
 #### Getting Started
-First clone this repo to your local machine, you should find the files are there to help you get started.
+First clone this repo to your local machine, the repo containts assets and boilerplate HTML/CSS to help you.
 
 ---------------
 
@@ -9,6 +9,12 @@ Use the provided assets to recreate [this mockup](http://jarqu.es/dl/b.jpg). It'
 ---------------
 
 #### Requirements
-* Do not edit any of the assets. For example: The darkened background should be handled by the template
-* Right column containing blog post should be scrollable, but left column should not scroll
+* Do not edit any of the image assets
+* Right column containing blog post should be vertically scrollable, but left column should not scroll
 * Submit final code to this repo via a pull-request
+
+---------------
+
+#### Bonuses
+* What happens when you click on comments or hamburger menu?
+* Think about a responsive layout to support multiple devices.
